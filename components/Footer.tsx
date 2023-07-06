@@ -13,19 +13,19 @@ const footerItems: FooterItems = [
   {
     title: 'Privacy Policy',
     items: [
-      { title: 'Read Details -->', href: '/privacy-policy' }
+      { title: 'Read Details', href: '/privacy-policy' }
     ],
   },
   {
     title: 'Terms of Service',
     items: [
-      { title: 'Read Details -->', href: '/features' }
+      { title: 'Read Details', href: '/terms-of-service' }
     ],
   },
   {
     title: 'Contact',
     items: [
-      { title: 'chenstone03@gmail.com', href: '/features' }
+      { title: 'chenstone03@gmail.com', href: '' }
     ],
   }
 ];
