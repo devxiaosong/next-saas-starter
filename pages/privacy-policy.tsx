@@ -8,11 +8,11 @@ export default function ContactPage() {
       <PrivacyPolicyContainer>
         <RichText>
           <p>
-            This Privacy Policy describes how IGEmailExtractor and its affiliates ("IGEmailExtractor", "we", "our" or "us") collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.
+            This Privacy Policy describes how IGEmailExtractor and its affiliates (IGEmailExtractor, we, our or us) collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.
           </p>
           <br />
           <p>
-            We may collect and receive information about users of our Services ("users," "you," or "your") from various sources, including: (i) information you provide through your user account on the Services (your "Account") if you register for the Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners.
+            We may collect and receive information about users of our Services (users, you, or your) from various sources, including: (i) information you provide through your user account on the Services (your "Account") if you register for the Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners.
           </p>
           <br />
           <p>
