@@ -16,7 +16,7 @@ export default function ContactPage() {
           </p>
           <br />
           <p>
-            We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or IGEmailExtractor's data collection, use, and disclosure practices, please contact us at chenstone03@gmail.com.
+            We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or IGEmailExtractor&apos;s data collection, use, and disclosure practices, please contact us at chenstone03@gmail.com.
           </p>
           <br />
           <strong>
@@ -27,7 +27,7 @@ export default function ContactPage() {
               Information You Provide
               <br />
               <br />
-              Account Registration. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. If you choose to refer a friend to our Services, we may also collect your friend's email address so that we may send them a referral or promotional code to sign up for our Services.
+              Account Registration. When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number. If you choose to refer a friend to our Services, we may also collect your friend&apos;s email address so that we may send them a referral or promotional code to sign up for our Services.
               <br />
               <br />
               Payment Information. When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.
@@ -95,6 +95,7 @@ export default function ContactPage() {
             </li>
           </ul>
           For compliance purposes, including enforcing our Terms of Service, or other legal rights, or as may be required by applicable laws and regulations or requested by any judicial process or governmental agency.
+          <br/>
           <strong>
             3. HOW WE SHARE INFORMATION
           </strong>
@@ -105,7 +106,7 @@ export default function ContactPage() {
               Vendors and Service Providers. We may share information with third-party vendors and service providers that provide services on our behalf, such as helping to provide our Services, for promotional and/or marketing purposes, and to provide you with information relevant to you such as product announcements, software updates, special offers, or other information.
             </li>
             <li>
-              Aggregate Information. Where legally permissible, we may use and share information about users with our partners in aggregated or de-identified form that can't reasonably be used to identify you.Third-Party Partners. We also share information about users with third-party partners in order to receive additional publicly available information about you.
+              Aggregate Information. Where legally permissible, we may use and share information about users with our partners in aggregated or de-identified form that can&apos;t reasonably be used to identify you.Third-Party Partners. We also share information about users with third-party partners in order to receive additional publicly available information about you.
             </li>
             <li>
               Professional advisors. We may disclose your personal information to professional advisors, such as lawyers, bankers, auditors and insurers, where necessary in the course of the professional services that they render to us.
@@ -161,7 +162,7 @@ export default function ContactPage() {
           If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing chenstone03@gmail.com If you terminate your Account, any public activity on your Account prior to deletion may remain stored on our servers and may remain accessible to the public.
           <br/>
           <br/>
-          To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could: inhibit IGEmailExtractor's ability to comply with a legal obligation; inhibit IGEmailExtractor's ability to investigate, make or defend legal claims; result in disclosure of personal information about a third party; or result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to IGEmailExtractor or a third party.
+          To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could: inhibit IGEmailExtractor&apos;s ability to comply with a legal obligation; inhibit IGEmailExtractor&apos;s ability to investigate, make or defend legal claims; result in disclosure of personal information about a third party; or result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to IGEmailExtractor or a third party.
           <br/>
           <br/>
           <strong>
@@ -204,7 +205,7 @@ export default function ContactPage() {
           <br/>
           <br/>
           <strong>
-            10. CHILDREN'S PRIVACY
+            10. CHILDREN&apos;S PRIVACY
           </strong>
           <br/>
           <br/>

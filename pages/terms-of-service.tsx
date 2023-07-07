@@ -12,7 +12,7 @@ export default function ContactPage() {
             <br/>
             <br/>
           </strong>
-          By using or visiting our website and Chrome extensions, you signify that you have read, understand and agree to be bound by our 'Terms of service or Agreement'.
+          By using or visiting our website and Chrome extensions, you signify that you have read, understand and agree to be bound by our &apos;Terms of service or Agreement&apos;.
           <br/>
           <br/>
 
@@ -39,7 +39,7 @@ export default function ContactPage() {
             <br/>
             <br/>
           </strong>
-          Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns. We provide 7 day money back guarantee as part of their refund policy from the moment of purchase. You can request money back, if service really doesn't satisfy you or you faced with some service issues. Please, email to chenstone03@gmail.com and send your order details.
+          Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns. We provide 7 day money back guarantee as part of their refund policy from the moment of purchase. You can request money back, if service really doesn&apos;t satisfy you or you faced with some service issues. Please, email to chenstone03@gmail.com and send your order details.
           We care about our services and customers. We want to ensure that you are happy with your purchase and that our products work correctly in your website environment.
           If you have any questions, problems or concerns with any of our products then please let me know by using the email chenstone03@gmail.com.
           <br/>
