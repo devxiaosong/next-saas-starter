@@ -13,7 +13,7 @@ export default function Cta() {
     <CtaWrapper>
       <Container>
         <Stack>
-          <SectionTitle>IG Email Extractor extracts business leads from Instagram and export data to CSV file.</SectionTitle>
+          <SectionTitle>IG Email Spider extracts business leads from Instagram and export data to CSV file.</SectionTitle>
         </Stack>
       </Container>
     </CtaWrapper>

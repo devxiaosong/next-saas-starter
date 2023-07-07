@@ -1,3 +1,4 @@
+import NextLink from 'next/link';
 import { PropsWithChildren } from 'react';
 import styled from 'styled-components';
 import { media } from 'utils/media';
@@ -30,7 +31,11 @@ export default function PricingCard({ title, description, benefits, isOutlined, 
           </CustomRichText>
         )}
       </PriceContainer>
-      <CustomButton>Get started</CustomButton>
+      <NextLink href="https://chrome.google.com/webstore/detail/ig-exporter/fkcgecaicjnlbmicfoglhmhiojbohiod" passHref>
+        <CustomButton>
+          Get started
+        </CustomButton>
+      </NextLink>
     </Wrapper>
   );
 }

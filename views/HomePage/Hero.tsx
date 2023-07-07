@@ -15,14 +15,16 @@ export default function Hero() {
     <HeroWrapper>
       <Contents>
         <CustomOverTitle>Get started - it's free</CustomOverTitle>
-        <Heading>Instagram Email Scraper</Heading>
+        <Heading>Instagram Email Spider</Heading>
         <Description>
-          It is an IG email scraper that easily helps you collect targeted emails from IG, it extracts emails from IG followers, following, hashtag, liker, commenter and location.
+          It is an IG email spider that easily helps you collect targeted emails from IG, it extracts emails from IG followers, following, hashtag, liker, commenter and location.
         </Description>
         <CustomButtonGroup>
-          <Button onClick={() => setIsModalOpened(true)}>
-            Add to Chrome <span>&rarr;</span>
-          </Button>
+          <NextLink href="https://chrome.google.com/webstore/detail/ig-exporter/fkcgecaicjnlbmicfoglhmhiojbohiod" passHref>
+            <Button>
+              Add to Chrome <span>&rarr;</span>
+            </Button>
+          </NextLink>
         </CustomButtonGroup>
       </Contents>
       <ImageContainer>

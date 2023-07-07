@@ -20,7 +20,7 @@ import { NewsletterModalContextProvider, useNewsletterModalContext } from 'conte
 import { NavItems } from 'types';
 
 const navItems: NavItems = [
-  { title: 'ADD To CHROME', href: '/sign-up', outlined: true },
+  // { title: 'ADD TO CHROME', href: 'https://chrome.google.com/webstore/detail/ig-exporter/fkcgecaicjnlbmicfoglhmhiojbohiod', outlined: true },
 ];
 
 const TinaCMS = dynamic(() => import('tinacms'), { ssr: false });

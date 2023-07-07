@@ -21,11 +21,13 @@ export default function WaveCta() {
       </svg>
       <CtaWrapper>
         <Container>
-          <Title>Instagram Email Scraper</Title>
+          <Title>Instagram Email Spider</Title>
           <CustomButtonGroup>
-            <Button onClick={() => setIsModalOpened(true)}>
-              ADD TO CHROME <span>&rarr;</span>
-            </Button>
+            <NextLink href="https://chrome.google.com/webstore/detail/ig-exporter/fkcgecaicjnlbmicfoglhmhiojbohiod" passHref>
+              <Button>
+                Add to Chrome <span>&rarr;</span>
+              </Button>
+            </NextLink>
           </CustomButtonGroup>
         </Container>
       </CtaWrapper>

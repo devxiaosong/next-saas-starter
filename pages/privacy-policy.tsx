@@ -16,7 +16,7 @@ export default function ContactPage() {
           </p>
           <br />
           <p>
-            We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or IGEmailExtractor's data collection, use, and disclosure practices, please contact us at support@extensionsbox.com.
+            We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or IGEmailExtractor's data collection, use, and disclosure practices, please contact us at chenstone03@gmail.com.
           </p>
           <br />
           <strong>
@@ -158,7 +158,7 @@ export default function ContactPage() {
           </strong>
           <br/>
           <br/>
-          If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing support@extensionsbox.com If you terminate your Account, any public activity on your Account prior to deletion may remain stored on our servers and may remain accessible to the public.
+          If you are a registered user, you may access certain information associated with your Account by logging into our Services or emailing chenstone03@gmail.com If you terminate your Account, any public activity on your Account prior to deletion may remain stored on our servers and may remain accessible to the public.
           <br/>
           <br/>
           To protect your privacy and security, we may also take reasonable steps to verify your identity before updating or removing your information. The information you provide us may be archived or stored periodically by us according to backup processes conducted in the ordinary course of business for disaster recovery purposes. Your ability to access and correct your information may be temporarily limited where access and correction could: inhibit IGEmailExtractor's ability to comply with a legal obligation; inhibit IGEmailExtractor's ability to investigate, make or defend legal claims; result in disclosure of personal information about a third party; or result in breach of a contract or disclosure of trade secrets or other proprietary business information belonging to IGEmailExtractor or a third party.
@@ -171,13 +171,13 @@ export default function ContactPage() {
           If you are a resident of the EEA, you have the following data protection rights:
           <ul>
             <li>
-              If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by emailing support@extensionsbox.com
+              If you wish to access, correct, update, or request deletion of your personal information, you can do so at any time by emailing chenstone03@gmail.com
             </li>
             <li>
-              In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by emailing support@extensionsbox.com.
+              In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by emailing chenstone03@gmail.com.
             </li>
             <li>
-              You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing support@extensionsbox.com.
+              You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing chenstone03@gmail.com.
             </li>
             <li>
               Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
@@ -208,7 +208,7 @@ export default function ContactPage() {
           </strong>
           <br/>
           <br/>
-          IGEmailExtractor does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at support@extensionsbox.com.
+          IGEmailExtractor does not knowingly collect information from children under the age of 13, and children under 13 are prohibited from using our Services. If you learn that a child has provided us with personal information in violation of this Privacy Policy, you can alert us at chenstone03@gmail.com.
           <br/>
           <br/>
           <strong>
@@ -232,10 +232,10 @@ export default function ContactPage() {
           </strong>
           <br/>
           <br/>
-          If you have any questions or concerns about this Privacy Policy, please feel free to email us at support@extensionsbox.com.
+          If you have any questions or concerns about this Privacy Policy, please feel free to email us at chenstone03@gmail.com.
           <br/>
           <br/>
-          If you have customers in the EU or need to be GDPR compliant, you may additionally request to sign our Data Protection Agreement (DPA). Please email us at support@extensionsbox.com for a copy of the DPA.
+          If you have customers in the EU or need to be GDPR compliant, you may additionally request to sign our Data Protection Agreement (DPA). Please email us at chenstone03@gmail.com for a copy of the DPA.
           <br/>
           <br/>
           The data controller of your personal information is IGEmailExtractor.

@@ -6,7 +6,7 @@ export default function FaqSection() {
   return (
     <Wrapper>
       <SectionTitle>FAQs</SectionTitle>
-      <Accordion title="What IG Email Extractor can do for me?">
+      <Accordion title="What IG Email Spider can do for me?">
         It helps you collect business leads from IG, it extracts emails from IG followers, following, hashtag, liker, commenter and location.
       </Accordion>
       <Accordion title="What is the difference between a Free account and a Pro account?">
@@ -15,7 +15,7 @@ export default function FaqSection() {
       </Accordion>
       <Accordion title="How to cancel my subscription?">
         You can cancel your premium subscription at any time, by clicking the PRO button in the extension popup window, goto Pro panel and manange subscription, you can cancel or update your payment information.
-        Drop us a line suport@extensionsbox.com if you have any questions about your subscription.
+        Drop us a line chenstone03@gmail.com if you have any questions about your subscription.
       </Accordion>
     </Wrapper>
   );

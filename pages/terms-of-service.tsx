@@ -21,7 +21,7 @@ export default function ContactPage() {
             <br/>
             <br/>
           </strong>
-          You may not claim intellectual or exclusive ownership rights to any of our products. All products are property of extensionsbox.com . They are provided “as is” without warranty of any kind, expressed or implied. We shall not be liable for any damages, including but not limited to, direct, indirect, special, incidental or consequential damages or losses that occur out of the use or inability to use our products.
+          You may not claim intellectual or exclusive ownership rights to any of our products. All products are property of leadsbotkit.com . They are provided “as is” without warranty of any kind, expressed or implied. We shall not be liable for any damages, including but not limited to, direct, indirect, special, incidental or consequential damages or losses that occur out of the use or inability to use our products.
           <br/>
           <br/>
 
@@ -39,9 +39,9 @@ export default function ContactPage() {
             <br/>
             <br/>
           </strong>
-          Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns. We provide 7 day money back guarantee as part of their refund policy from the moment of purchase. You can request money back, if service really doesn't satisfy you or you faced with some service issues. Please, email to support@extensionsbox.com and send your order details.
+          Our order process is conducted by our online reseller Paddle.com. Paddle.com is the Merchant of Record for all our orders. Paddle provides all customer service inquiries and handles returns. We provide 7 day money back guarantee as part of their refund policy from the moment of purchase. You can request money back, if service really doesn't satisfy you or you faced with some service issues. Please, email to chenstone03@gmail.com and send your order details.
           We care about our services and customers. We want to ensure that you are happy with your purchase and that our products work correctly in your website environment.
-          If you have any questions, problems or concerns with any of our products then please let me know by using the email support@extensionsbox.com.
+          If you have any questions, problems or concerns with any of our products then please let me know by using the email chenstone03@gmail.com.
           <br/>
           <br/>
 
@@ -68,7 +68,7 @@ export default function ContactPage() {
             <br/>
             <br/>
           </strong>
-          ExtensionsBox reserves the right to change the price of any service at any time. Any price change will be reflected on extensionsbox.com. In the event that any price is lowered, you will not be entitled to a refund for the difference in the price from the time you purchased the service.
+          ExtensionsBox reserves the right to change the price of any service at any time. Any price change will be reflected on leadsbotkit.com. In the event that any price is lowered, you will not be entitled to a refund for the difference in the price from the time you purchased the service.
           <br/>
           <br/>
 
