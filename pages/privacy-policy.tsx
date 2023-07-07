@@ -8,11 +8,11 @@ export default function ContactPage() {
       <PrivacyPolicyContainer>
         <RichText>
           <p>
-            This Privacy Policy describes how IGEmailExtractor and its affiliates (IGEmailExtractor, we, our or us) collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the "Services"). This Privacy Policy (the "Privacy Policy") does not apply to information our customers may process when using our Services.
+            This Privacy Policy describes how IGEmailExtractor and its affiliates (IGEmailExtractor, we, our or us) collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the Services). This Privacy Policy (the Privacy Policy) does not apply to information our customers may process when using our Services.
           </p>
           <br />
           <p>
-            We may collect and receive information about users of our Services (users, you, or your) from various sources, including: (i) information you provide through your user account on the Services (your "Account") if you register for the Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners.
+            We may collect and receive information about users of our Services (users, you, or your) from various sources, including: (i) information you provide through your user account on the Services (your Account) if you register for the Services; (ii) your use of the Services; and (iii) from third-party websites, services, and partners.
           </p>
           <br />
           <p>
@@ -33,7 +33,7 @@ export default function ContactPage() {
               Payment Information. When you add your financial account information to your Account, that information is directed to our third-party payment processor. We do not store your financial account information on our systems; however, we have access to, and may retain, subscriber information through our third-party payment processor.
               <br />
               <br />
-              User Content. Our "Community" feature allows you to publicly post content on our Services. By registering for our Community, you agree that your profile information and the content you post may be viewed and used by other users and third parties we do not control.
+              User Content. Our Community feature allows you to publicly post content on our Services. By registering for our Community, you agree that your profile information and the content you post may be viewed and used by other users and third parties we do not control.
               <br />
               <br />
               Communications. If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide. We may also receive a confirmation when you open an email from us.
@@ -44,7 +44,7 @@ export default function ContactPage() {
               Information We Collect When You Use Our Services.
               <br />
               <br />
-              Cookies and Other Tracking Technologies. As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area ("EEA"), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
+              Cookies and Other Tracking Technologies. As is true of most websites, we gather certain information automatically and store it in log files. In addition, when you use our Services, we may collect certain information automatically from your device. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, clickstream data, landing page, and referring URL. To collect this information, a cookie may be set on your computer or device when you visit our Services. Cookies contain a small amount of information that allows our web servers to recognize you. We store information that we collect through cookies, log files, and/or clear gifs to record your preferences. We may also automatically collect information about your use of features of our Services, about the functionality of our Services, frequency of visits, and other information related to your interactions with the Services. We may track your use across different websites and services. In some countries, including countries in the European Economic Area (EEA), the information referenced above in this paragraph may be considered personal information under applicable data protection laws.
               <br />
               <br />
               Usage of our Services. When you use our Services, we may collect information about your engagement with and utilization of our Services, such as processor and memory usage, storage capacity, navigation of our Services, and system-level metrics. We use this data to operate the Services, maintain and improve the performance and utilization of the Services, develop new features, protect the security and safety of our Services and our customers, and provide customer support. We also use this data to develop aggregate analysis and business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of our business.
@@ -177,7 +177,7 @@ export default function ContactPage() {
               In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by emailing chenstone03@gmail.com.
             </li>
             <li>
-              You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the "unsubscribe" or "opt-out" link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing chenstone03@gmail.com.
+              You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the unsubscribe or opt-out link in the marketing emails we send you. To opt-out of other forms of marketing, please contact us by emailing chenstone03@gmail.com.
             </li>
             <li>
               Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.

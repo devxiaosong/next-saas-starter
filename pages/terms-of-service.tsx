@@ -12,7 +12,7 @@ export default function ContactPage() {
             <br/>
             <br/>
           </strong>
-          By using or visiting our website and Chrome extensions, you signify that you have read, understand and agree to be bound by our "Terms of service or Agreement".
+          By using or visiting our website and Chrome extensions, you signify that you have read, understand and agree to be bound by our 'Terms of service or Agreement'.
           <br/>
           <br/>
 
