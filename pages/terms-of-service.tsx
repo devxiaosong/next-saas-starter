@@ -17,7 +17,7 @@ export default function ContactPage() {
           <br/>
 
           <strong>
-            2. Ownership
+            2. Ownershipp
             <br/>
             <br/>
           </strong>
